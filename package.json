@@ -1,0 +1,11 @@
+{
+  "name": "confusion-matrix-lab",
+  "version": "1.0.0",
+  "description": "A browser-based classifier evaluation tool that builds confusion matrices and per-class precision, recall, and F1 from CSV labels.",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
